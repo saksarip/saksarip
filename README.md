@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saketh Saripalli, a Computer Science and Finance student at Northeastern University. 
-- 👀 I’m interested in creating applications that impact people's lives. My studies and work are centered around machine learning and AI, and I hope to start a tech business
+- 👀 I’m interested in creating applications that impact people's lives. My studies and work are centered around software engineering, finance, machine learning and AI, and I hope to start a tech business
 
 
 <!---
